@@ -7,8 +7,8 @@ This course is well-organized with high-quality content.
 
 ### Spring Boot
 
-- Lesson 1: What is Spring Boot?
-- Lesson 2: Creating a REST Service
-- Lesson 3: Developer Tools
-- Lesson 4: Actuator
-- Lesson 5: Comparing Spring Boot and Spring MVC
+- Lesson 1: [What is Spring Boot?](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2/blob/master/lesson1.md)
+- Lesson 2: [Creating a REST Service](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2/blob/master/lesson2.md)
+- Lesson 3: [Developer Tools](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2/blob/master/lesson3.md)
+- Lesson 4: [Actuator](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2/blob/master/lesson4.md)
+- Lesson 5: [Comparing Spring Boot and Spring MVC](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2/blob/master/lesson5.md)

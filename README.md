@@ -12,3 +12,7 @@ This course is well-organized with high-quality content.
 - Lesson 3: [Developer Tools](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2/blob/master/lesson3.md)
 - Lesson 4: [Actuator](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2/blob/master/lesson4.md)
 - Lesson 5: [Comparing Spring Boot and Spring MVC](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2/blob/master/lesson5.md)
+
+## Other Parts
+
+- Part 1: [The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-1](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-1)

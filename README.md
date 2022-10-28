@@ -6,7 +6,7 @@ This course is well-organized with high-quality content.
 
 ## Table of Contents
 
-### 3.Spring Boot
+### 3. Spring Boot
 
 - Lesson 1: [What is Spring Boot?](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2/blob/master/lesson1.md)
 - Lesson 2: [Creating a REST Service](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-2/blob/master/lesson2.md)
@@ -17,3 +17,4 @@ This course is well-organized with high-quality content.
 ## Other Parts
 
 - Part 1: [The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-1](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-1)
+- Part 3: [The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-3)
